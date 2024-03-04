@@ -7,11 +7,11 @@ using TestovoeZadanie1.Figures;
 
 namespace TestovoeZadanie1
 {
-    public class Calculator
+    public static class Calculator
     {
-        public double GetSquare(IFigure figure)
+        public static double GetSquare(IFigure figure)
             => figure.Square;
-        public bool IsTriangleRight(Triangle triangle)
+        public static bool IsTriangleRight(Triangle triangle)
             => triangle.IsTriangleRight;
     }
 }
