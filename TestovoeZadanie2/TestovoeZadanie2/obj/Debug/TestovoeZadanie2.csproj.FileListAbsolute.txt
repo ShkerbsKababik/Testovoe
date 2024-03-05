@@ -1,0 +1,9 @@
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\bin\Debug\Database1.mdf
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\bin\Debug\Database1_log.ldf
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\bin\Debug\TestovoeZadanie2.exe.config
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\bin\Debug\TestovoeZadanie2.exe
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\bin\Debug\TestovoeZadanie2.pdb
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\obj\Debug\TestovoeZadanie2.csproj.AssemblyReference.cache
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\obj\Debug\TestovoeZadanie2.csproj.CoreCompileInputs.cache
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\obj\Debug\TestovoeZadanie2.exe
+D:\GitHubRepose\Testovoe\TestovoeZadanie2\TestovoeZadanie2\obj\Debug\TestovoeZadanie2.pdb
