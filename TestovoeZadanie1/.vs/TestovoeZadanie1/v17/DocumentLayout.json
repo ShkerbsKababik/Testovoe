@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|d:\\githubrepose\\testovoe\\testovoezadanie1\\testovoezadanie1\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|solutionrelative:testovoezadanie1\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C23012C5-E419-47FE-BB61-F3C37ADCE91C}|TestovoeZadanie1Tests\\TestovoeZadanie1Tests.csproj|d:\\githubrepose\\testovoe\\testovoezadanie1\\testovoezadanie1tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C23012C5-E419-47FE-BB61-F3C37ADCE91C}|TestovoeZadanie1Tests\\TestovoeZadanie1Tests.csproj|solutionrelative:testovoezadanie1tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|d:\\githubrepose\\testovoe\\testovoezadanie1\\testovoezadanie1\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|solutionrelative:testovoezadanie1\\figures\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|d:\\githubrepose\\testovoe\\testovoezadanie1\\testovoezadanie1\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|solutionrelative:testovoezadanie1\\figures\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|d:\\githubrepose\\testovoe\\testovoezadanie1\\testovoezadanie1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|solutionrelative:testovoezadanie1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C23012C5-E419-47FE-BB61-F3C37ADCE91C}|TestovoeZadanie1Tests\\TestovoeZadanie1Tests.csproj|d:\\githubrepose\\testovoe\\testovoezadanie1\\testovoezadanie1tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C23012C5-E419-47FE-BB61-F3C37ADCE91C}|TestovoeZadanie1Tests\\TestovoeZadanie1Tests.csproj|solutionrelative:testovoezadanie1tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|d:\\githubrepose\\testovoe\\testovoezadanie1\\testovoezadanie1\\figures\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F49E3D22-0507-4C6D-923A-218D511A0ED9}|TestovoeZadanie1\\TestovoeZadanie1.csproj|solutionrelative:testovoezadanie1\\figures\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Tests.cs",
               "DocumentMoniker": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1Tests\\Tests.cs",
               "RelativeDocumentMoniker": "TestovoeZadanie1Tests\\Tests.cs",
               "ToolTip": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1Tests\\Tests.cs",
               "RelativeToolTip": "TestovoeZadanie1Tests\\Tests.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T22:39:08.695Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calculator.cs",
               "DocumentMoniker": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1\\Calculator.cs",
               "RelativeDocumentMoniker": "TestovoeZadanie1\\Calculator.cs",
@@ -66,35 +62,22 @@
               "RelativeDocumentMoniker": "TestovoeZadanie1\\Figures\\Triangle.cs",
               "ToolTip": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1\\Figures\\Triangle.cs",
               "RelativeToolTip": "TestovoeZadanie1\\Figures\\Triangle.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAwAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAA8wDcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T20:48:43.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Circle.cs",
               "DocumentMoniker": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1\\Figures\\Circle.cs",
               "RelativeDocumentMoniker": "TestovoeZadanie1\\Figures\\Circle.cs",
               "ToolTip": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1\\Figures\\Circle.cs",
               "RelativeToolTip": "TestovoeZadanie1\\Figures\\Circle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-04T20:48:14.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IFigure.cs",
-              "DocumentMoniker": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1\\Figures\\IFigure.cs",
-              "RelativeDocumentMoniker": "TestovoeZadanie1\\Figures\\IFigure.cs",
-              "ToolTip": "D:\\GitHubRepose\\Testovoe\\TestovoeZadanie1\\TestovoeZadanie1\\Figures\\IFigure.cs",
-              "RelativeToolTip": "TestovoeZadanie1\\Figures\\IFigure.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-04T20:47:59.419Z",
               "EditorCaption": ""
             }
           ]

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TestovoeZadanie1.Exceptions;
 
 namespace TestovoeZadanie1.Figures
 {
@@ -21,6 +22,11 @@ namespace TestovoeZadanie1.Figures
         // Ctor
         public Triangle(double aSide, double bSide, double cSide)
         {
+            // Check data verification
+            if(CheckIfSidesZero(aSide, bSide, cSide) || 
+                CheckIfSidesTriangle(aSide, bSide, cSide))
+                throw new InvalidInputDataException();
+
             A = aSide;
             B = bSide;
             C = cSide;
@@ -37,5 +43,13 @@ namespace TestovoeZadanie1.Figures
             double hypotenuse = Math.Max(A, Math.Max(B, C));
             return Math.Pow(hypotenuse, 2) == aSqure + bSqure + cSqure - Math.Pow(hypotenuse, 2);
         }
-    }
+        private bool CheckIfSidesZero(double a, double b, double c)
+        {
+            return a <= 0 || b <= 0 || c <= 0;
+        }
+        private bool CheckIfSidesTriangle(double a, double b, double c)
+        {
+            return a >= b + c || b >= a + c || c >= a + b;
+        }
+    }    
 }

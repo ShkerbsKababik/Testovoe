@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using TestovoeZadanie1.Exceptions;
 
 namespace TestovoeZadanie1.Figures
 {
@@ -14,7 +15,13 @@ namespace TestovoeZadanie1.Figures
 
         // Ctor
         public Circle(double radius)
-            => Radius = radius;
+        {
+            // Check data verification
+            if (radius <= 0)
+                throw new InvalidInputDataException();
+
+            Radius = radius;
+        }
 
         // Methods
         private double CalculateSquare()
